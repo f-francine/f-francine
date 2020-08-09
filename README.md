@@ -3,7 +3,8 @@
 ## Hi there 👋
 
 Sou apaixonada por tecnologia. Quero usar ela para tornar o mundo um lugar um pouco melhor. :earth_americas: <br/>
-<br/>Busco colaborar em projetos que visem as pessoas, a saúde, o bem-estar e a segurança delas e busco, também, projetos que tenham como objetivo a conservação do nosso planeta, por meio de tecnologias.
+<br/>Estudando JavaScript e Java 
+
 <br/>Sobre mim: 💬
 <br/>Estudante de engenharia de computação.<br/>Amo a natureza, o aprendizado de novos idiomas, ler livros e, claro, amo programar. :heart:
 <br/>Entre em contato comigo: 📫
