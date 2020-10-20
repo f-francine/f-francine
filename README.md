@@ -1,15 +1,15 @@
 # Francine Guimarães
 
-## Hi there 👋
+__Hi there 👋__
 
 Sou apaixonada por tecnologia. Quero usar ela para tornar o mundo um lugar um pouco melhor. :earth_americas: <br/>
-<br/>Estudando JavaScript e Java 
+<br/>Estudando Python e Java
 
 <br/>Sobre mim: 💬
 <br/>Estudante de engenharia de computação.<br/>Amo a natureza, o aprendizado de novos idiomas, ler livros e, claro, amo programar. :heart:
 <br/>Entre em contato comigo: 📫
-<br/>(https://www.linkedin.com/in/francine-guimar%C3%A3es-0747311b3/)
-<br>(francinesguimaraes@outlook.com)
+<br/>![LinkedIn](https://www.linkedin.com/in/francine-guimar%C3%A3es-0747311b3/)
+<br>![Email](francinesguimaraes@outlook.com)
 
 <!--
 **f-francine/f-francine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
