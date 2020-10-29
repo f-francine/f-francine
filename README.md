@@ -1,15 +1,16 @@
 # Francine Guimarães
 
 __Hi there 👋__
+I'm Francine, I'm 19 and I love technoly. One of my goals is using it to make the world a place a little bit better.:earth_americas:
 
-Sou apaixonada por tecnologia. Quero usar ela para tornar o mundo um lugar um pouco melhor. :earth_americas: <br/>
-<br/>Estudando Python e Java
+__My current goals about programming are:__
+- [x] Practice more programming using Java 
+- [x] Contribute to an open source project
+- [ ] Learn databases
+- [ ] Learn machine and deep learning
+- [ ] Learn about network infrastructure
 
-<br/>Sobre mim: 💬
-<br/>Estudante de engenharia de computação.<br/>Amo a natureza, o aprendizado de novos idiomas, ler livros e, claro, amo programar. :heart:
-<br/>Entre em contato comigo: 📫
-<br/>![LinkedIn](https://www.linkedin.com/in/francine-guimar%C3%A3es-0747311b3/)
-<br>![Email](francinesguimaraes@outlook.com)
+- 👯 I am collaborating on an open source project, in which an agglomeration monitoring and mask use system is being developed.
 
 <!--
 **f-francine/f-francine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
