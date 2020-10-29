@@ -1,7 +1,7 @@
 # Francine Guimarães
 
 __Hi there 👋__
-I'm Francine, I'm 19 and I love technoly. One of my goals is using it to make the world a place a little bit better.:earth_americas:
+I'm Francine, I'm 19 and I love technology. One of my goals is using it to make the world a place a little bit better.:earth_americas:
 
 __My current goals about programming are:__
 - [x] Practice more programming using Java 
