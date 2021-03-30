@@ -2,6 +2,10 @@
 
 I'm Francine, I'm 19 and I love technology. One of my goals is using it to make the world a place a little bit better.:earth_americas:
 
+![Francine's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-francine&show_icons=true&theme=radical)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f-francine&show_icons=true&theme=radical)](https://github.com/f-francine/github-readme-stats) 
+-->
 <!--
 **f-francine/f-francine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
