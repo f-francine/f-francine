@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-I'm Francine, I'm 19 and I love technology. One of my goals is using it to make the world a place a little bit better.:earth_americas:
+I'm Francine, I'm 20 and I love technology. One of my goals is using it to make the world a place a little bit better.:earth_americas:
 
 ![Francine's GitHub stats](https://github-readme-stats.vercel.app/api?username=f-francine&show_icons=true&theme=radical)
 
