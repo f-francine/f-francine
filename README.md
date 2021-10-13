@@ -3,6 +3,10 @@
 
 ### Hello, there! Fran here!
 
+ 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=f-francine&left_color=green&right_color=red)
+
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=Francine&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
@@ -21,4 +25,4 @@ I am passionate about tecnology. I think we can use it to create great things, i
 <code><img height="32" src="https://w7.pngwing.com/pngs/929/893/png-transparent-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-windows.png" alt="Kafka"/></code>
 ---
 
-I am a backend developer, currently working with elixir. In my work, besides elixir, I also have some contact with tecnologies like docker, kafka and kubernetes, so, I can say I have some experience with them. Beyond that, I also have knowlodge in java and python.
+I am a backend developer, currently working with elixir. In my work, besides elixir, I also have some contact with tecnologies like docker, kafka and kubernetes, so, I can say I have a little experience with them. Beyond that, I also have knowlodge in java and python.
