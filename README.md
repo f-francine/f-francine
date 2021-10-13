@@ -3,9 +3,9 @@
 
 ### Hello, there! Fran here!
 
- 
+<!--- 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=f-francine&left_color=green&right_color=red)
-
+--->
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Francine&color=f8efd4&style=for-the-badge&logo=GitHub">
 
