@@ -21,7 +21,7 @@ I am passionate about tecnology. I think we can use it to create great things, i
 <code><img height="32" src="https://w7.pngwing.com/pngs/961/251/png-transparent-java-runtime-environment-programming-language-programmer-computer-programming-java-text-logo-software-developer-thumbnail.png" alt="Java"/></code>
 <code><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwKyt_8Vdtq3iPqvjn1o8FMKlN00IfKz7y3n-i42ehZanD17JElRZ4Jy_7kfRSiFnbjI&usqp=CAU" alt="Python"/></code>
 <code><img height="32" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" alt="Kubernetes"/></code>
-<code><img height="32" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="Docker"/></code>
+<code><img height="32" src="https://www.techprevue.com/wp-content/uploads/2021/04/docker-image-1068x712.jpg" alt="Docker"/></code>
 <code><img height="32" src="https://w7.pngwing.com/pngs/929/893/png-transparent-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-windows.png" alt="Kafka"/></code>
 ---
 
